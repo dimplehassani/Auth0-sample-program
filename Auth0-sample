@@ -1,0 +1,14 @@
+Spring Secutiry with AUTH0
+https://auth0.com/docs/quickstart/backend/java-spring-security/01-authorization
+
+we will develop the API's for our clients - REST API's
+
+nobody will be allowed to access the API's without authentication and authorization
+
+so client will register with AUTH0 to get the JWT tokens to access the resource API's -- this has a cost
+
+REST API will be responsible to validate the token and enabling the security for the API's
+
+
+
+ 
